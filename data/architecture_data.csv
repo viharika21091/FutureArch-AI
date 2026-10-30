@@ -1,0 +1,6 @@
+architecture,scalability,performance,cost,maintainability,reliability,complexity
+Monolithic,60,85,90,70,65,85
+Modular Monolith,75,88,82,85,78,75
+Microservices,95,88,60,80,92,55
+Serverless,92,90,70,75,88,65
+Event-Driven,94,85,65,78,95,50
